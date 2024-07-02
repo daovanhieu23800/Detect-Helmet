@@ -7,5 +7,8 @@ This repo will demonstrate how to use YOLOv10 to detect helmet
 
 Now you can run the notebook to see the how to run project
 
+To run streamlit using below command:
+
+`python -m streamlit run app.py --server.enableXsrfProtection false `
 
 ![demo](demo.png)
